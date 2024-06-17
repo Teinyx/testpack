@@ -22,33 +22,58 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				pufferfish = true
-				dolphin = true
-				item = true
+				chicken = true
 				bee = true
-				turtle = true
-				zombie_villager = true
+				arrow = true
+				donkey = true
 				cow = true
 				tropical_fish = true
+				fox = true
 				pig = true
 				slime = true
 				skeleton = true
+				iron_golem = true
 				bat = true
+				frog = true
+				cat = true
+				rabbit = true
 				zombie = true
+				armor_stand = true
+				drowned = true
+				sheep = true
+				experience_orb = true
+				player = true
+				pufferfish = true
+				dolphin = true
+				illusioner = true
+				item = true
+				turtle = true
+				wolf = true
+				villager = true
+				salmon = true
+				zombie_villager = true
+				item_frame = true
+				horse = true
+				cave_spider = true
 				glow_squid = true
 				cod = true
 				witch = true
 				glow_item_frame = false
 				squid = true
-				drowned = true
 				spider = true
+				parrot = true
 				creeper = true
-				sheep = true
-				player = true
+				lightning_bolt = true
 				enderman = true
+
+			[light_sources.settings.entities.fallingtrees]
+				tree = true
 
 			[light_sources.settings.entities.endermanoverhaul]
 				savanna_enderman = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				mauler = true
@@ -57,4 +82,9 @@ mode = "fancy"
 				ocean_creeper = true
 				cave_creeper = true
 				savannah_creeper = true
+				spruce_creeper = true
+				hills_creeper = true
+
+			[light_sources.settings.entities.meadow]
+				wooly_cow = true
 
