@@ -24,158 +24,109 @@ mode = "fancy"
 			[light_sources.settings.entities.minecraft]
 				glow_item_frame = false
 				player = true
-				bat = true
-				rabbit = true
-				polar_bear = true
-				villager = true
-				skeleton = true
-				zombie = true
-				creeper = true
-				zombie_villager = true
-				spider = true
-				glow_squid = true
-				stray = true
-				pillager = true
-				witch = true
-				enderman = true
-				slime = true
 				pig = true
-				squid = true
-				cod = true
-				chicken = true
-				dolphin = true
+				parrot = true
+				zombified_piglin = true
+				allay = true
+				pillager = true
+				vindicator = true
 				item = true
-				armor_stand = true
+				cow = true
+				glow_squid = true
+				bat = true
+				creeper = true
+				zombie = true
+				spider = true
+				zombie_villager = true
+				skeleton = true
+				enderman = true
+				axolotl = true
 				sheep = true
+				villager = true
+				iron_golem = true
+				witch = true
+				bee = true
+				chicken = true
+				armor_stand = true
+				squid = true
+				cave_spider = true
 				pufferfish = true
 				salmon = true
-				drowned = true
-				cow = true
-				bee = true
-				frog = true
-				cat = true
-				horse = true
-				tnt_minecart = true
-				chest_minecart = true
-				axolotl = true
-				tropical_fish = true
-				mooshroom = true
-				zombified_piglin = true
-				ocelot = true
-				panda = true
-				vindicator = true
-				parrot = true
-
-			[light_sources.settings.entities.mythicmobs]
-				drake = true
-				kobold = true
-				mushroom_thing = true
-				kobold_warrior = true
-				chupacabra = true
-
-			[light_sources.settings.entities.wildlife]
-				lark = true
-				sparrow = true
-				starfish = true
-				clam = true
-				horseshoecrab = true
-				sanddollar = true
-				seaurchin = true
-				koi = true
-				shrimp = true
-				jellyfish = true
-				prawn = true
-				bettafish = true
-				bluegill = true
-				goldfish = true
-				rainbow_trout = true
-				catfish = true
-				hedgehog = true
-				ant = true
-				june_beetle = true
-				wren = true
-				ladybug = true
-				python = true
-				glasswing_butterfly = true
-				milk_snake = true
-				gecko = true
-				sunflowerbeetle = true
-				white_eye = true
-				king_snake = true
-				monarch_butterfly = true
-				grass_snake = true
-				snail = true
-				dragonfly = true
-				tiger_butterfly = true
-				cricket = true
-				stickbug = true
-				spicebush_butterfly = true
-				spider = true
-				beaver = true
-				swallow = true
-				alligator = true
-				badger = true
-				flycatcher = true
-				hammerhead_shark = true
-
-			[light_sources.settings.entities.graveyard]
-				corrupted_pillager = true
-				skeleton_creeper = true
-				acolyte = true
-				corrupted_vindicator = true
-				nightmare = true
-
-			[light_sources.settings.entities.variantsandventures]
-				gelid = true
-				thicket = true
-				verdant = true
-
-			[light_sources.settings.entities.creeperoverhaul]
-				snowy_creeper = true
-				cave_creeper = true
-				hills_creeper = true
-				dripstone_creeper = true
-				bamboo_creeper = true
-				jungle_creeper = true
-
-			[light_sources.settings.entities.earthtojavamobs]
-				piebald_pig = true
-				gold_crested_chicken = true
-				dairy_cow = true
-				skeleton_wolf = true
-				inky_sheep = true
-				mottled_pig = true
-				fancy_chicken = true
-				fuzzy_sheep = true
-				bold_striped_rabbit = true
-				cream_cow = true
-				muddy_pig = true
-				skewbald_chicken = true
-				spotted_pig = true
-				muddy_foot_rabbit = true
-				rainbow_sheep = true
-				flecked_sheep = true
-				jumbo_rabbit = true
-				cookie_cow = true
-				lobber_zombie = true
-
-			[light_sources.settings.entities.meadow]
-				wooly_cow = true
+				vex = true
+				fox = true
 
 			[light_sources.settings.entities.adventurez]
 				amethyst_golem = true
 
-			[light_sources.settings.entities.endermanoverhaul]
-				mushroom_fields_enderman = true
-				cave_enderman = true
+			[light_sources.settings.entities.earthtojavamobs]
+				freckled_rabbit = true
+				cream_cow = true
+				piebald_pig = true
+				cookie_cow = true
+				amber_chicken = true
+				sooty_pig = true
+				stormy_chicken = true
+				bold_striped_rabbit = true
+				skewbald_chicken = true
+				skeleton_wolf = true
+				pink_footed_pig = true
+				flecked_sheep = true
 
 			[light_sources.settings.entities.friendsandfoes]
-				rascal = true
-				glare = true
+				mauler = true
 
-			[light_sources.settings.entities.missingwilds]
-				firefly_swarm = true
+			[light_sources.settings.entities.wildlife]
+				june_beetle = true
+				ant = true
+				glasswing_butterfly = true
+				flycatcher = true
+				bluebird = true
+				sparrow = true
+				tiger_butterfly = true
+				grass_snake = true
+				lark = true
+				spider = true
+				cricket = true
+				rhino_beetle = true
+				iguana = true
+				monarch_butterfly = true
+				dragonfly = true
+				oriole = true
+				alligator = true
+				chameleon = true
+				spicebush_butterfly = true
+				deer = true
+				boar = true
+				staghorn_beetle = true
+				possum = true
+				hedgehog = true
+				porcupine = true
+				goldfinch = true
+				towhee = true
+				phoebe = true
+				ferret = true
+				badger = true
 
-			[light_sources.settings.entities.fallingtrees]
-				tree = true
+			[light_sources.settings.entities.variantsandventures]
+				thicket = true
+				verdant = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				bamboo_creeper = true
+				cave_creeper = true
+				jungle_creeper = true
+				dark_oak_creeper = true
+
+			[light_sources.settings.entities.graveyard]
+				skeleton_creeper = true
+				nightmare = true
+				corrupted_pillager = true
+				corrupted_vindicator = true
+				acolyte = true
+
+			[light_sources.settings.entities.mythicmobs]
+				chupacabra = true
+				mushroom_thing = true
+				kobold = true
+				kobold_warrior = true
 

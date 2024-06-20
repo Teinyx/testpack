@@ -1,6 +1,6 @@
 {
   "minecraft": {
-    "warped_forest": {
+    "soul_sand_valley": {
       "spawn": {
         "ambient": {
           "betternether": {
@@ -27,7 +27,7 @@
         }
       }
     },
-    "nether_wastes": {
+    "warped_forest": {
       "spawn": {
         "ambient": {
           "betternether": {
@@ -81,7 +81,7 @@
         }
       }
     },
-    "soul_sand_valley": {
+    "nether_wastes": {
       "spawn": {
         "ambient": {
           "betternether": {

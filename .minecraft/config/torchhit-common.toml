@@ -1,8 +1,8 @@
 #Fire damage duration for direct (main hand) hits.
-#Range: 1 ~ 8
+#Range: 1 ~ 20
 "direct hit duration" = 4
 #Fire damage duration for indirect (off hand + tool) hits.
-#Range: 1 ~ 8
+#Range: 1 ~ 20
 "indirect hit duration" = 2
 #List of tools that allow for an indirect hit when a torch is being held in the off hand.
 #Leave empty to disable indirect hits.
